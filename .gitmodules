@@ -1,36 +1,36 @@
 [submodule "packages/cli"]
 	path = packages/cli
-	url = https://github.com/Stacked-Org/cli.git
+	url = https://github.com/Pebkac03/cli.git
 [submodule "packages/core"]
 	path = packages/core
-	url = https://github.com/Stacked-Org/core.git
+	url = https://github.com/Pebkac03/core.git
 [submodule "packages/crashlytics"]
 	path = packages/crashlytics
-	url = https://github.com/Stacked-Org/crashlytics.git
+	url = https://github.com/Pebkac03/crashlytics.git
 [submodule "packages/firebase_auth"]
 	path = packages/firebase_auth
-	url = https://github.com/Stacked-Org/firebase_auth.git
+	url = https://github.com/Pebkac03/firebase_auth.git
 [submodule "packages/generator"]
 	path = packages/generator
-	url = https://github.com/Stacked-Org/generator.git
+	url = https://github.com/Pebkac03/generator.git
 [submodule "packages/gql"]
 	path = packages/gql
-	url = https://github.com/Stacked-Org/gql.git
+	url = https://github.com/Pebkac03/gql.git
 [submodule "packages/hooks"]
 	path = packages/hooks
-	url = https://github.com/Stacked-Org/hooks.git
+	url = https://github.com/Pebkac03/hooks.git
 [submodule "packages/localization"]
 	path = packages/localization
-	url = https://github.com/Stacked-Org/localization.git
+	url = https://github.com/Pebkac03/localization.git
 [submodule "packages/localization_generator"]
 	path = packages/localization_generator
-	url = https://github.com/Stacked-Org/localization_generator.git
+	url = https://github.com/Pebkac03/localization_generator.git
 [submodule "packages/services"]
 	path = packages/services
-	url = https://github.com/Stacked-Org/services.git
+	url = https://github.com/Pebkac03/services.git
 [submodule "packages/stacked"]
 	path = packages/stacked
-	url = https://github.com/Stacked-Org/stacked.git
+	url = https://github.com/Pebkac03/stacked.git
 [submodule "packages/themes"]
 	path = packages/themes
-	url = https://github.com/Stacked-Org/themes.git
+	url = https://github.com/Pebkac03/themes.git
